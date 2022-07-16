@@ -1,5 +1,5 @@
 # Todo-App
- Todo-App build with html, CSS and JavaScript. It's responsive.
+ Todo-App build with html, CSS and JS. It's responsive.
 
 ![image]()
 
@@ -7,7 +7,7 @@
 
 - HTML
 - CSS
-- JavaScript
+- JS
 - Git
 
 ## Live Demo
