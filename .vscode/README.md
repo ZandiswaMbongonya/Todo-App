@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](/)
+[Live Demo Link](https://superlative-hotteok-b48350.netlify.app/)
 
 ## Authors
 
